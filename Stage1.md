@@ -19,7 +19,7 @@ This advanced demo consists of 5 stages :-
 - STAGE 4 : Update App Bucket & Test Application  
 - STAGE 5 : Cleanup the account  
 
-![Stage1 - PNG](https://github.com/yyhao0422/Implementing-a-simple-WEBIDF-App/blob/master/images/ARCHITECTURE-ENDSTATE.pdf)
+![Stage1 - PNG](https://github.com/yyhao0422/Implementing-a-simple-WEBIDF-App/blob/master/ARCHITECTURE-ENDSTATE.pdf)
 
 # STAGE 1A - Login to an AWS Account    
 
